@@ -1,4 +1,4 @@
-This is the Backend implementation click here to see full application ==> https://github.com/AdityaKumarMohanty/crm-fullstack.git
+This is the Backend implementation click here to see fullstack application ==> https://github.com/AdityaKumarMohanty/crm-fullstack.git
 
 <h1 align="center" id="title">CRM SYSTEM</h1>
 
